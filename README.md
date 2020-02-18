@@ -1,5 +1,6 @@
 # Python-Sudoku
 Sudoku game that is written in Python
+ - Uses tkinter as GUI
 
 To run the code, please download every file, then run the Python Sudoku GUI.py
 
